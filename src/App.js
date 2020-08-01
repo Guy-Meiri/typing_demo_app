@@ -21,7 +21,7 @@ function App() {
 		context.fillText("noom is a cutie pie, she's the real deal dude!", 300, 300);
 		context.lineCap = 'round';
 		context.strokeStyle = '#1f2f3f';
-		context.lineWidth = 100;
+		context.lineWidth = 2;
 		context.globalAlpha = 0.3;
 
 		contextRef.current = context;
