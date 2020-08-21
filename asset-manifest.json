@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/typing_demo_app/static/css/main.1c2405c7.chunk.css",
+    "main.js": "/typing_demo_app/static/js/main.8826d1ab.chunk.js",
+    "main.js.map": "/typing_demo_app/static/js/main.8826d1ab.chunk.js.map",
+    "runtime-main.js": "/typing_demo_app/static/js/runtime-main.56c83067.js",
+    "runtime-main.js.map": "/typing_demo_app/static/js/runtime-main.56c83067.js.map",
+    "static/js/2.a158866a.chunk.js": "/typing_demo_app/static/js/2.a158866a.chunk.js",
+    "static/js/2.a158866a.chunk.js.map": "/typing_demo_app/static/js/2.a158866a.chunk.js.map",
+    "index.html": "/typing_demo_app/index.html",
+    "precache-manifest.1d696f4d30058129ce84735cd4273270.js": "/typing_demo_app/precache-manifest.1d696f4d30058129ce84735cd4273270.js",
+    "service-worker.js": "/typing_demo_app/service-worker.js",
+    "static/css/main.1c2405c7.chunk.css.map": "/typing_demo_app/static/css/main.1c2405c7.chunk.css.map",
+    "static/js/2.a158866a.chunk.js.LICENSE.txt": "/typing_demo_app/static/js/2.a158866a.chunk.js.LICENSE.txt",
+    "static/media/myCssTest.module.css": "/typing_demo_app/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.56c83067.js",
+    "static/js/2.a158866a.chunk.js",
+    "static/css/main.1c2405c7.chunk.css",
+    "static/js/main.8826d1ab.chunk.js"
+  ]
+}
